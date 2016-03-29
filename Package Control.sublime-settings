@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AngularJS",
+		"AutoFileName",
+		"ConvertToUTF8",
+		"HTML-CSS-JS Prettify",
+		"LESS",
+		"Package Control",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"Web Inspector"
+	]
+}

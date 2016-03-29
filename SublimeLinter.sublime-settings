@@ -1,0 +1,18 @@
+{
+	"user":
+	{
+		"linters":
+		{
+			"jshint":
+			{
+				"@disable": false,
+				"args":
+				[
+				],
+				"excludes":
+				[
+				]
+			}
+		}
+	}
+}
